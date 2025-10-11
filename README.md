@@ -3,7 +3,7 @@
 A collection of my software projects.
 
 
-## ☕ Java101: Object-Oriented Programming:
+## Java101: Object-Oriented Programming:
 **Type:** Java Coursework  
 **Tech Stack:** Java  
 **Summary:**  
@@ -12,7 +12,7 @@ Implemented multiple problem-solving exercises and a coursework project, focusin
 **Code:** Private (available upon request)
 
 ---
-##  FlickFinder Movie API Project:
+## FlickFinder Movie API Project:
 
 **Type:** REST API Development  
 **Tech Stack:** Python, Flask (or Django REST if used), SQLite  
@@ -31,7 +31,7 @@ Developed a movie database REST API as part of a startup-style project. Implemen
 
 ---
 
-##  Music Catalogue Web App:
+## Music Catalogue Web App:
 **Type:** Django + React coursework  
 **Summary:** Built a full-stack web app for managing and browsing music albums with user roles.  
 **Tech:** Django REST Framework, React, PostgreSQL  
