@@ -14,7 +14,7 @@ A collection of my software projects.
 ## FlickFinder Movie API Project:
 **Type:** REST API Development  
 **Tech Stack:** Python, Django REST, SQLite  
-**Summary:** Developed a movie database REST API as part of a startup-style project. Implemented routes for querying and filtering movie data, defining system requirements, and testing endpoints.
+**Summary:** Developed a movie database REST API as part of a startup-style project. Implemented routes for querying and filtering movie data, defining system requirements, and testing endpoints.    
 **Status:** Completed  
 **Code:** Private (available upon request)
 
@@ -48,8 +48,8 @@ Work includes model tuning, data augmentation, optimizer comparison, custom CNN 
 - **Dataset:** **MedMNIST** — **BreastMNIST**
 - **Metrics & CV:** scikit-learn (`precision/recall/F1/AUPR/ROC`, `KFold`)
 - **Utils & Viz:** NumPy, Matplotlib, Seaborn, TQDM
-- **Hardware:** CPU or CUDA GPU (auto-detect)
-**Status:** Completed
+- **Hardware:** CPU or CUDA GPU (auto-detect)    
+**Status:** Completed    
 **Code:** Private (available upon request)
 
 
