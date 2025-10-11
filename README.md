@@ -5,7 +5,7 @@ A collection of my software projects.
 ## Java101: Object-Oriented Programming:
 **Type:** Java Coursework project
 **Tech Stack:** Java  
-**Summary:** Developed Java programs demonstrating strong understanding of object-oriented principles including classes, inheritance, polymorphism, and encapsulation. Implemented multiple problem-solving exercises and a coursework project, focusing on logic, structure, and efficient code design.
+**Summary:** Developed Java programs demonstrating strong understanding of object-oriented principles including classes, inheritance, polymorphism, and encapsulation. Implemented multiple problem-solving exercises and a coursework project, focusing on logic, structure, and efficient code design.     
 **Status:** Completed  
 **Code:** Private (available upon request)
 
