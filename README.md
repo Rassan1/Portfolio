@@ -2,7 +2,6 @@
 
 A collection of my software projects.
 
-
 ## Java101: Object-Oriented Programming:
 **Type:** Java Coursework project
 **Tech Stack:** Java  
@@ -10,8 +9,8 @@ A collection of my software projects.
 **Code:** Private (available upon request)
 
 ---
-## FlickFinder Movie API Project:
 
+## FlickFinder Movie API Project:
 **Type:** REST API Development  
 **Tech Stack:** Python, Django REST, SQLite  
 **Summary:** Developed a movie database REST API as part of a startup-style project. Implemented routes for querying and filtering movie data, defining system requirements, and testing endpoints.  
