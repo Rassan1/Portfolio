@@ -1,6 +1,6 @@
 # Portfolio
 
-A collection of my software projects.
+A collection highlights some of software projects I've worked on.
 
 ## Java101: Object-Oriented Programming:
 **Type:** Java Coursework project
