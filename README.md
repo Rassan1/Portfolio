@@ -66,3 +66,20 @@ Dataset: UK DfT — STATS19 Road Casualty Statistics 2024
 Status: Completed
 Code: Private (available upon request)
 
+
+## Social Hub — Cross-Residence Student Community Platform:
+**Type:** Final Year Dissertation Project (Full-Stack Web Application)  
+**Summary:** Designed, built, and evaluated a full-stack prototype web platform to connect students across different private student accommodation providers (PBSA) through cross-residence event discovery, AI-powered recommendations, and real-time group chat. Addresses a documented gap in existing platforms — no current system combines cross-residence interaction, institutional identity verification, and personalised event recommendation in the PBSA context. Evaluated with 3 real University of Surrey students from 3 different accommodation providers: 100% task success rate, no assistance required, average post-task score of 4.71/5 across 8 dimensions.  
+
+
+**Tech used:**
+- **Frontend:** React 18.2, React Router 6, Axios
+- **Backend:** Python 3.12, Django 5.0.1, Django REST Framework 3.14
+- **Database:** PostgreSQL 16
+- **Cache:** Redis 7 (typing indicators), Django LocMemCache (recommendations)
+- **Auth:** JWT via SimpleJWT — stateless, token blacklisting on logout
+- **AI / Recommendations:** scikit-learn (TF-IDF vectorisation + cosine similarity), NumPy
+- **Containerisation:** Docker, Docker Compose — single `docker-compose up --build` deployment
+- **Deployment:** Nginx (frontend proxy), ngrok (external evaluation access)  
+**Status:** Completed  
+**Code:** Private (available upon request)
