@@ -52,4 +52,17 @@ Work includes model tuning, data augmentation, optimizer comparison, custom CNN 
 **Status:** Completed    
 **Code:** Private (available upon request)
 
+ ##Road Collision Severity Prediction:
+**Type:** Business Analytics & Data Visualisation coursework
+**Summary:** End-to-end data science pipeline predicting UK road collision severity (Fatal / Serious / Slight) using the official government STATS19 2024 dataset. Group work covered data cleaning, merging three tables (Collisions, Vehicles, Casualties), EDA, feature engineering, SMOTE for class imbalance, and preprocessing. Individual modelling work trained and evaluated a tuned Random Forest and Decision Tree classifier, with full evaluation including ROC/AUC curves, confusion matrices, precision-recall curves, and feature importance analysis.
+
+**Tech used:**
+
+Language/Runtime: Python (Jupyter Notebook, Google Colab)
+Data: Pandas, NumPy
+Visualisation: Matplotlib, Seaborn
+ML: scikit-learn (Random Forest, Decision Tree, RandomizedSearchCV, StratifiedKFold), imbalanced-learn (SMOTE)
+Dataset: UK DfT — STATS19 Road Casualty Statistics 2024
+Status: Completed
+Code: Private (available upon request)
 
