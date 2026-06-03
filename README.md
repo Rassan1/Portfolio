@@ -53,10 +53,10 @@ Work includes model tuning, data augmentation, optimizer comparison, custom CNN 
 **Code:** Private (available upon request)
 
 ## Road Collision Severity Prediction:
-**Type:** Business Analytics & Data Visualisation coursework
+**Type:** Business Analytics & Data Visualisation coursework  
 **Summary:** End-to-end data science pipeline predicting UK road collision severity (Fatal / Serious / Slight) using the official government STATS19 2024 dataset. Group work covered data cleaning, merging three tables (Collisions, Vehicles, Casualties), EDA, feature engineering, SMOTE for class imbalance, and preprocessing. Individual modelling work trained and evaluated a tuned Random Forest and Decision Tree classifier, with full evaluation including ROC/AUC curves, confusion matrices, precision-recall curves, and feature importance analysis.
 
-**Tech used:**
+**Tech used:**    
 Language/Runtime: Python (Jupyter Notebook, Google Colab)
 Data: Pandas, NumPy
 Visualisation: Matplotlib, Seaborn
@@ -67,7 +67,7 @@ Code: Private (available upon request)
 
 
 ## Social Hub — Cross-Residence Student Community Platform:
-**Type:** Final Year Dissertation Project (Full-Stack Web Application)
+**Type:** Final Year Dissertation Project (Full-Stack Web Application)    
 **Summary:** Designed, built, and evaluated a full-stack prototype web platform to connect students across different private student accommodation providers (PBSA) through cross-residence event discovery, AI-powered recommendations, and real-time group chat. Addresses a documented gap in existing platforms — no current system combines cross-residence interaction, institutional identity verification, and personalised event recommendation in the PBSA context. Evaluated with 3 real University of Surrey students from 3 different accommodation providers: 100% task success rate, no assistance required, average post-task score of 4.71/5 across 8 dimensions.  
 
 
