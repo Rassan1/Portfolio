@@ -89,5 +89,5 @@ https://github.com/Rassan1/SocialHubProject
 - **Auth:** JWT via SimpleJWT — stateless, token blacklisting on logout        
 - **AI / Recommendations:** scikit-learn (TF-IDF vectorisation + cosine similarity), NumPy        
 - **Containerisation:** Docker, Docker Compose — single `docker-compose up --build` deployment        
-- **Deployment:** Nginx (frontend proxy), ngrok (external evaluation access)      
+- **Deployment:** Nginx (frontend proxy)      
 **Status:** Completed          
